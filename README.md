@@ -10,13 +10,13 @@ Analizar el negocio usando los 3 datasets (clientes, uso_real y planes) para que
 - usage.csv: Actividad generada por los usuarios: llamadas, mensajes, duración, longitud. 
 
 ## Etapas del análisis
-1 Integrar y limpiar bases de datos provenientes de tres fuentes distintas.
-2 Aplicar técnicas de validación, estandarización de tipos de datos y detección de valores inconsistentes.
-3 Construir un perfil estadístico del uso (llamadas y mensajes) por cliente y por segmentos demográficos.
-4 Detectar outliers y comportamientos atípicos mediante métodos estadísticos y visuales.
-5 Crear segmentaciones de clientes basadas en edad, país y comportamiento de uso.
-6 Visualizar diferencias entre segmentos y extraer insights comerciales relevantes.
-7 Documentar todo el proceso en un Jupyter Notebook, junto con un README reproducible para subirlo a GitHub.
+1. Integrar y limpiar bases de datos provenientes de tres fuentes distintas.
+2. Aplicar técnicas de validación, estandarización de tipos de datos y detección de valores inconsistentes.
+3. Construir un perfil estadístico del uso (llamadas y mensajes) por cliente y por segmentos demográficos.
+4. Detectar outliers y comportamientos atípicos mediante métodos estadísticos y visuales.
+5. Crear segmentaciones de clientes basadas en edad, país y comportamiento de uso.
+6. Visualizar diferencias entre segmentos y extraer insights comerciales relevantes.
+7. Documentar todo el proceso en un Jupyter Notebook, junto con un README reproducible para subirlo a GitHub.
 
 ## Cómo ejecutar
 1. Abre el notebook en Google Colab
